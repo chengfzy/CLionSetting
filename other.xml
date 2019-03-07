@@ -1,0 +1,20 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExternalToolDialog.advanced.expanded" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="C Source File" />
+    <property name="KEYMAP" value="L" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="markdo&#10;fold&#10;comple&#10;file type&#10;for" />
+    <property name="export.settings.path" value="$USER_HOME$/Downloads/settings.zip" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Downloads/settings.zip&#10;/usr/bin/clang-format-6.0&#10;/home/jeffery/Documents/Code/Others/CPlusPlusStudy&#10;/home/jeffery/MacDocuments/Work/Tools/SensorCalibration/ImuGpsCalibration" />
+    <property name="file.gist.reindex.count" value="171" />
+    <property name="lastTip" value="3" />
+    <property name="selected.color.option.type" value="FOLDED_TEXT_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.Markdown" value="Arrangement" />
+    <property name="settings.code.style.selected.tab.ObjectiveC" value="Wrapping and Braces" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
