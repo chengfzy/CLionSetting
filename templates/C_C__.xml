@@ -5,4 +5,5 @@
     <variable name="UPPER_BOUND" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="main" value="int main(int argc, char* argv[]) {&#10;    return 0;&#10;}" toReformat="true" toShortenFQNames="true" />
 </templateSet>
