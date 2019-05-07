@@ -5,5 +5,10 @@
     <variable name="UPPER_BOUND" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="main" value="int main(int argc, char* argv[]) {&#10;    return 0;&#10;}" description="main function" toReformat="true" toShortenFQNames="true" />
+  <template name="main" value="int main(int argc, char* argv[]) {&#10;    return 0;&#10;}" description="main function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
+    </context>
+  </template>
 </templateSet>
