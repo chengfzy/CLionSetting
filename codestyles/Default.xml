@@ -28,6 +28,13 @@
     <option name="KEEP_BLANK_LINES_BEFORE_END" value="1" />
     <option name="ADD_BRIEF_TAG" value="true" />
   </Objective-C>
+  <Objective-C-extensions>
+    <extensions>
+      <pair source="cpp" header="h" fileNamingConvention="NONE" />
+      <pair source="c" header="h" fileNamingConvention="NONE" />
+      <pair source="cpp" header="hpp" fileNamingConvention="NONE" />
+    </extensions>
+  </Objective-C-extensions>
   <codeStyleSettings language="ObjectiveC">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
