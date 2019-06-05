@@ -3,12 +3,14 @@
     <variable name="INDEX" expression="suggestIndexName()" defaultValue="" alwaysStopAt="true" />
     <variable name="COPY_INDEX" expression="INDEX" defaultValue="" alwaysStopAt="false" />
     <variable name="UPPER_BOUND" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
+    <context>
+      <option name="OC_STATEMENT_CPP" value="true" />
+    </context>
   </template>
   <template name="main" value="int main(int argc, char* argv[]) {&#10;    return 0;&#10;}" description="main function" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="c" value="true" />
-      <option name="cpp" value="true" />
+      <option name="OC_DECLARATION_C" value="true" />
+      <option name="OC_DECLARATION_CPP" value="true" />
     </context>
   </template>
 </templateSet>
