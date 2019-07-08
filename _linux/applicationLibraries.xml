@@ -248,6 +248,52 @@
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 2.7 interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Documents/Code/ROS/kalibr_ws/src/cmake-build-debug/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/kinetic/lib/python2.7/dist-packages" />
+        <root url="file:///opt/intel/openvino_2019.1.094/python/python3.5" />
+        <root url="file:///opt/intel/openvino_2019.1.094/deployment_tools/model_optimizer" />
+        <root url="file:///usr/bin" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file:///usr/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/PILcompat" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk2" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/348993582" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Documents/Code/ROS/kalibr_ws/src/cmake-build-debug/devel/lib/python2.7/dist-packages" />
+        <root url="file:///opt/ros/kinetic/lib/python2.7/dist-packages" />
+        <root url="file:///opt/intel/openvino_2019.1.094/python/python3.5" />
+        <root url="file:///opt/intel/openvino_2019.1.094/deployment_tools/model_optimizer" />
+        <root url="file:///usr/bin" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file:///usr/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/local/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages" />
+        <root url="file:///usr/lib/python2.7/dist-packages/PILcompat" />
+        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+        <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk2" />
+        <root url="file://$USER_HOME$/.CLion2019.1/system/python_stubs/348993582" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.7 (anaconda) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/anaconda3/lib/python3.7" />
