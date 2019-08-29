@@ -3,7 +3,7 @@
   <option name="FORMATTER_ON_TAG" value="// clang-format on" />
   <option name="FORMATTER_OFF_TAG" value="// clang-format off" />
   <JSON>
-    <option name="ARRAY_WRAPPING" value="5" />
+    <option name="ARRAY_WRAPPING" value="1" />
   </JSON>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="WRAP_ON_TYPING" value="0" />
