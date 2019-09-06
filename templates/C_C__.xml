@@ -21,4 +21,11 @@
     <variable name="COPY_CONTAINER" expression="CONTAINER" defaultValue="" alwaysStopAt="false" />
     <context />
   </template>
+  <template name="usna" value="using namespace $SPACE$;" description="use namespace" toReformat="true" toShortenFQNames="true">
+    <variable name="SPACE" expression="" defaultValue="std" alwaysStopAt="true" />
+    <context>
+      <option name="OC_DECLARATION_C" value="true" />
+      <option name="OC_DECLARATION_CPP" value="true" />
+    </context>
+  </template>
 </templateSet>
