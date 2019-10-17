@@ -1,8 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="Reformat and Save">
-      <action id="Tool_External Tools_clang format" />
-      <action id="SaveAll" />
-    </macro>
-  </component>
-</application>
