@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../modules/vio/src/ImageErrorForCalibration.cpp'" />
-    <option name="defaultScopeName" value="File '.../modules/vio/src/ImageErrorForCalibration.cpp'" />
+    <option name="customScope" value="Project 'CppTemp'" />
+    <option name="defaultScopeName" value="Project 'CppTemp'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../modules/vio/src/ImageErrorForCalibration.cpp'" />
+    <option name="SEARCH_SCOPE" value="Project 'CppTemp'" />
   </component>
 </application>
