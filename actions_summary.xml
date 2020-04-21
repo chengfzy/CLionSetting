@@ -114,6 +114,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="RunAnything">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581673631762" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="SaveAll">
           <value>
             <ActionSummary>
@@ -126,6 +134,30 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581673217639" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ToggleBookmark">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581673590731" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ToggleFullScreen">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581673627212" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ToggleLineBreakpoint">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581673587350" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
