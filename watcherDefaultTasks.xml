@@ -2,7 +2,7 @@
   <component name="ApplicationTasksOptions">
     <global-watchers>
       <TaskOptions>
-        <option name="arguments" value="-style=&quot;{BasedOnStyle: Google, ColumnLimit: 120, IndentWidth: 4, DerivePointerAlignment: false, AccessModifierOffset: -2}&quot; -i $FileName$" />
+        <option name="arguments" value="-style=&quot;{BasedOnStyle: Google, ColumnLimit: 120, SortIncludes: true, IncludeBlocks: Preserve, IndentWidth: 4, DerivePointerAlignment: false, AccessModifierOffset: -2}&quot; -i $FileName$" />
         <option name="checkSyntaxErrors" value="true" />
         <option name="description" />
         <option name="exitCodeBehavior" value="ERROR" />
